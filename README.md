@@ -66,8 +66,13 @@ Software using Demo:
 	[+]Task Loading Successfully：http://127.0.0.1:7001
 	[+]End of Task Execution：http://127.0.0.1:7001
 
-	
-<div align=center><img src=demo/console.jpg></div>
-<div align=center><img src=demo/index.jpg></div>
-<div align=center><img src=demo/search.jpg></div>
-<div align=center><img src=demo/result.jpg></div>
+Software running Demo:	
+===
+console：
+<div align=center><img src=demo/console.jpg width="80%"></div>
+网站主页：
+<div align=center><img src=demo/index.jpg width="80%"></div>
+查询交互：
+<div align=center><img src=demo/search.jpg width="80%"></div>
+查询结果：
+<div align=center><img src=demo/result.jpg width="80%"></div>
