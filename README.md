@@ -41,13 +41,13 @@
         CVE-2017-10271 
         
 Usage:	
-===
+=
 `python3 WeblogicScanStart.py`
 
 默认端口521，如需变更，请自行更改
 
 Software using Demo:	
-===
+=
 	__        __   _     _             _        ____
 	\ \      / /__| |__ | | ___   __ _(_) ___  / ___|  ___ __ _ _ __
 	 \ \ /\ / / _ \ '_ \| |/ _ \ / _` | |/ __| \___ \ / __/ _` | '_ \
@@ -67,12 +67,16 @@ Software using Demo:
 	[+]End of Task Execution：http://127.0.0.1:7001
 
 Software running Demo:	
-===
-console：
+=
+控制台：
+=
 <div align=center><img src=demo/console.jpg width="80%"></div>
 网站主页：
+=
 <div align=center><img src=demo/index.jpg width="80%"></div>
 查询交互：
+=
 <div align=center><img src=demo/search.jpg width="80%"></div>
 查询结果：
+=
 <div align=center><img src=demo/result.jpg width="80%"></div>
