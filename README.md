@@ -1,7 +1,7 @@
 <div align=center><img src=static/images/WeblogicScan.jpg width="60%"></div>
 
 # WeblogicScanServer
-开启WeblogicScanV3.*系列，采用Server部署，支持远程扫描Weblogic漏洞扫描
+开启WeblogicScanV3.*系列，采用Server部署，支持远程Weblogic漏洞扫描
 
 	软件作者：Tide_RabbitMask
 	免责声明：Pia!(ｏ ‵-′)ノ”(ノ﹏<。)
